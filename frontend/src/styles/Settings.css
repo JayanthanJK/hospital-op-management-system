@@ -1,0 +1,15 @@
+.settings-card{
+background:white;
+padding:30px;
+border-radius:10px;
+display:flex;
+flex-direction:column;
+gap:15px;
+width:500px;
+}
+
+.settings-card input{
+padding:12px;
+border:1px solid #ddd;
+border-radius:6px;
+}

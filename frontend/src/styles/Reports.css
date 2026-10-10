@@ -1,0 +1,14 @@
+.report-cards{
+display:grid;
+grid-template-columns:repeat(2,1fr);
+gap:20px;
+}
+
+.report-card{
+background:white;
+padding:30px;
+border-radius:10px;
+text-align:center;
+font-size:18px;
+font-weight:bold;
+}
